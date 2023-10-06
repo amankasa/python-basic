@@ -1,0 +1,11 @@
+file=input("enter the file name:")
+f=open(file,"w+")
+# print("Enter the contents in the file:")
+# content=input()
+f.write("My name is AMan")
+print(f.read())
+# print("What do you want to perform?")
+# print("1. append")
+# print("2. delete")
+# choice=input()
+
