@@ -33,4 +33,8 @@ git checkout -b <branch_name>
 
 git checkout <branch_name>
 
+<!-- to change branch in github -->
+git push --set -upstream origin feat-login
+
+
 added login feature with otp
